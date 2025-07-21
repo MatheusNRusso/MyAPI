@@ -1,0 +1,14 @@
+CREATE TABLE pacientes(
+    id bigint NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(255) NOT NULL,
+    cpf CHAR(11) NOT NULL UNIQUE,
+    email VARCHAR(255) NOT NULL UNIQUE,
+    telefone VARCHAR(12) NOT NULL UNIQUE,
+    logradouro VARCHAR(100) NOT NULL,
+    bairro VARCHAR(100) NOT NULL,
+    cep VARCHAR(100) NOT NULL,
+    uf VARCHAR(2) NOT NULL,
+    cidade VARCHAR(100) NOT NULL,
+    numero VARCHAR(100),
+    complemento VARCHAR(100)
+);
