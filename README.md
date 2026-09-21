@@ -1,6 +1,6 @@
 # 🏥 MyAPI - API REST para Gestão Hospitalar
 
-Este projeto é uma **API RESTful** desenvolvida em **Java com Spring Boot**, como parte da formação **Java Backend** no programa [Oracle Next Education (ONE)](https://www.oracle.com/br/education/oracle-next-education/) — uma parceria entre a **Oracle** e a **Alura**.
+Este projeto é uma **API RESTful** desenvolvida em **Java com Spring Boot**, como parte da formação **Java Backend**.
 
 A aplicação simula funcionalidades de um sistema hospitalar, permitindo operações de CRUD para médicos e pacientes.
 
@@ -94,7 +94,6 @@ São executados automaticamente ao iniciar a aplicação.
 ## 👨‍💻 Autor
 
 Desenvolvido por [Matheus N Russo](https://github.com/MatheusNRusso)
-Projeto integrante do programa **Oracle Next Education (ONE) - Java Backend**
 
 ---
 
